@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.header {
+  background: #ff6600;
+  font-size: 10px;
+}
+
+main {
+  margin-left: 20px;
+}
+
+.title, a:visited {
+  color: #828282;
+}
+
+.main-title {
+  font-size: 15px;
+}
+
+.sub-title {
+  font-size: 10px;
+}
+
+.operations {
+  font-size: 10px;
+  margin-bottom: 30px;
+}
+
+.comment-wrapper {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.vote-wrapper {
+  width: 25px;
+}
+
+.comment-title {
+  font-size: 15px;
+}
+
+.comment-content {
+  font-size: 10px;
+}
+
+.replies-container {
+  padding-left: 36px;
+}
