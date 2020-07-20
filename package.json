@@ -15,7 +15,7 @@
     "ayanami": "^0.18.0",
     "customize-cra": "^0.9.1",
     "immer": "^6.0.8",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "pretty-ms": "^7.0.0",
     "react": "^16.13.1",
     "react-app-rewired": "^2.1.6",
